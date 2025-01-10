@@ -11,5 +11,10 @@ Imagem:
 1. Selecione a Versão do jdk
 2. Clique em instalar/dowload
 3. Abra o arquivo nas suas pastas
-4. Siga os passos até o aplicativo ser baixado
+4. Siga os passos dados até o aplicativo ser baixado
 ### Netbeans
+[tutorial1.pdf](https://github.com/user-attachments/files/18377309/tutorial1.pdf)
+1. Selecione a versão do Netbeans e baixe
+2. Abra o arquivo nas pastas
+3. Se você já Baixou o Jdk primeiro ele permite o dowload, SE não baixe o jdk
+4. Siga os passos dados até o aplicativo ser baixado

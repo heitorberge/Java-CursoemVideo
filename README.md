@@ -1,5 +1,5 @@
 # Java Curso em Vídeo
-Do Curso em Vídeo
+Para ver o curso  [Clique aqui](https://www.youtube.com/watch?v=ZBKxhnqX-Q0&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
 # Aplicativos Que tem que ser baixados
 Jdk: https://www.oracle.com/java/technologies/downloads  
 NetBeans: https://netbeans.apache.org/front/main/download/  

@@ -19,3 +19,8 @@ Imagem:
 2. Abra o arquivo nas pastas
 3. Se você já Baixou o Jdk primeiro ele permite o dowload, SE não baixe o jdk
 4. Siga os passos dados até o aplicativo ser baixado
+____
+# AVISO!
+***Os códigos dos Progamas  
+Java SEMPRE vão estar na  
+pasta src do Arquivo.***

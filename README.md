@@ -26,6 +26,8 @@ Java SEMPRE vão estar na
 pasta src do Arquivo.***
 ## Aula 05
 ***Eu Não Consegui Resolver  
-O Desafio Do Idioma Sistema   
-Swing, Se você Conseguiu Por  
-Favor Faça um Pull Request.***
+Os Desafios Da Aula 05 mas  
+O Progama Resolução da Tela Swing  
+Tem Algum erro que não sei Qual é,Se    
+você Conseguiu resolver os problemas  
+Por Favor Faça um Pull Request.***

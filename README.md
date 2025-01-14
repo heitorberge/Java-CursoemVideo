@@ -25,9 +25,10 @@ ____
 Java SEMPRE vão estar na  
 pasta src do Arquivo.***
 ## Aula 05
-***Eu Não Consegui Resolver  
-Os Desafios Da Aula 05 mas  
-O Progama Resolução da Tela Swing  
-Tem Algum erro que não sei Qual é,Se    
-você Conseguiu resolver os problemas  
+***Eu Não Consegui Resolver   
+Os Desafios Da Aula 05 e   
+O Progama Resolução da   
+Tela Swing Tem Algum erro    
+que não sei Qual é,Se você  
+Conseguiu resolver os problemas    
 Por Favor Faça um Pull Request.***

@@ -20,6 +20,10 @@ Imagem:
 3. Se você já Baixou o Jdk primeiro ele permite o dowload, SE não baixe o jdk
 4. Siga os passos dados até o aplicativo ser baixado
 ____
+# Tabela Java
+![e3da5e7f-2144-4f79-9230-dea2f2dd93f4](https://github.com/user-attachments/assets/c562aee6-3647-4c9d-a8e6-7b927b013675)
+
+____
 # AVISO!
 ***Os códigos dos Progamas  
 Java SEMPRE vão estar na  

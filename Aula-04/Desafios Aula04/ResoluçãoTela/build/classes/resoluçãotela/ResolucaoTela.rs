@@ -1,2 +1,0 @@
-ResolucaoTela
-resoluçãotela.ResoluçãoTela

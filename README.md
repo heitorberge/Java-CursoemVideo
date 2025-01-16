@@ -26,7 +26,7 @@ ____
 Origem: Curso em Video e @gustavoguanabra
 ### Saída de dados
 ![saída de dados](https://github.com/user-attachments/assets/7cc6fca1-7f6a-4598-b296-71ffee9bb6b5)  
-Origem: Fetio por mim 'w'
+Origem: Feito por mim 'w'
 ____
 # AVISO!
 ***Os códigos dos Progamas  

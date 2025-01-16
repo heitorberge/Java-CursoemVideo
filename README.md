@@ -21,12 +21,12 @@ Imagem:
 4. Siga os passos dados até o aplicativo ser baixado
 ____
 # Tabelas Java
-## Tipos Primitivos
+### Tipos Primitivos
 ![tabela](https://github.com/user-attachments/assets/975ff03f-06ae-43d1-9313-b58e1518b41f)  
 Origem: Curso em Video e @gustavoguanabra
-## Saída de dados
-![saída de dados](https://github.com/user-attachments/assets/7cc6fca1-7f6a-4598-b296-71ffee9bb6b5)
-Origem: Feio por mim 'w'
+### Saída de dados
+![saída de dados](https://github.com/user-attachments/assets/7cc6fca1-7f6a-4598-b296-71ffee9bb6b5)  
+Origem: Fetio por mim 'w'
 ____
 # AVISO!
 ***Os códigos dos Progamas  

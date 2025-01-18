@@ -27,6 +27,12 @@ Origem: Curso em Video e @gustavoguanabra
 ### Saída de dados
 ![saída de dados](https://github.com/user-attachments/assets/7cc6fca1-7f6a-4598-b296-71ffee9bb6b5)  
 Origem: Feito por mim 'w'
+### Operadores
+![Captura de tela 2025-01-18 100148](https://github.com/user-attachments/assets/6b126ccb-0256-4ebc-a96c-a9ae816f916e)  
+![Captura de tela 2025-01-18 100448](https://github.com/user-attachments/assets/fc3aef14-edb8-4906-9375-b172c26f0c58)  
+![Captura de tela 2025-01-18 100539](https://github.com/user-attachments/assets/d900cc03-c91c-44c4-87ba-db49eefae4db)  
+![Captura de tela 2025-01-18 100555](https://github.com/user-attachments/assets/f39e65f8-3658-491d-ad7e-c57995bfb1b7)  
+Origem: [SlideShare](https://pt.slideshare.net/slideshow/curso-de-java-07-operadores/46916976)
 ____
 # AVISO!
 ***Os códigos dos Progamas  

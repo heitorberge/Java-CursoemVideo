@@ -32,14 +32,14 @@ Origem: Feito por mim 'w'
 ![Captura de tela 2025-01-18 100448](https://github.com/user-attachments/assets/fc3aef14-edb8-4906-9375-b172c26f0c58) 
 ![Captura de tela 2025-01-18 100950](https://github.com/user-attachments/assets/ae50b98e-fc90-4f74-b015-21c8bb8c0c2f)
 ![Captura de tela 2025-01-18 100539](https://github.com/user-attachments/assets/d900cc03-c91c-44c4-87ba-db49eefae4db)  
-![Captura de tela 2025-01-18 100555](https://github.com/user-attachments/assets/f39e65f8-3658-491d-ad7e-c57995bfb1b7)
-Origem: [SlideShare]([https://pt.slideshare.net/slideshow/curso-de-java-07-operadores/46916976](https://pt.slideshare.net/slideshow/curso-de-java-08-operadores-lgicos-e-relacionais/47487553)) ,[Curso Em Vídeo](https://www.cursoemvideo.com/) e [Gustavo Guanabara](https://github.com/gustavoguanabara) 
+![Captura de tela 2025-01-18 100555](https://github.com/user-attachments/assets/f39e65f8-3658-491d-ad7e-c57995bfb1b7)          
+Origem: [SlideShare](https://pt.slideshare.net/slideshow/curso-de-java-07-operadores/46916976) ,[Curso Em Vídeo](https://www.cursoemvideo.com/) e [Gustavo Guanabara](https://github.com/gustavoguanabara) 
 ### Operadores 2
 ![Captura de tela 2025-01-21 091841](https://github.com/user-attachments/assets/b6083c8d-256a-49f5-bf7c-8b425f5b9520)
 ![Captura de tela 2025-01-21 091825](https://github.com/user-attachments/assets/e26ae106-9bc2-425c-9ebd-0475d78e40fd)
-![Captura de tela 2025-01-21 091857](https://github.com/user-attachments/assets/63932c80-23d1-4a46-8cb1-efe1f7e0ab2b)
+![Captura de tela 2025-01-21 091857](https://github.com/user-attachments/assets/63932c80-23d1-4a46-8cb1-efe1f7e0ab2b)       
 
-Origem: [SlideShare](https://pt.slideshare.net/slideshow/curso-de-java-07-operadores/46916976) ,[Curso Em Vídeo](https://www.cursoemvideo.com/) e [Gustavo Guanabara](https://github.com/gustavoguanabara) 
+Origem: [SlideShare](https://pt.slideshare.net/slideshow/curso-de-java-08-operadores-lgicos-e-relacionais/47487553) ,[Curso Em Vídeo](https://www.cursoemvideo.com/) e [Gustavo Guanabara](https://github.com/gustavoguanabara) 
 ____
 # AVISO!
 ***Os códigos dos Progamas  

@@ -24,7 +24,7 @@ public class DetectadorDePernas {
             default:
                 tipo = "ET";
         }
-        System.out.println("Com certeza Esse Bicho e Um/Uma " + tipo);
+        System.out.println("Com certeza Esse Bicho e Um(a) " + tipo);
         System.out.println("__________________________________________________");
     }
 }

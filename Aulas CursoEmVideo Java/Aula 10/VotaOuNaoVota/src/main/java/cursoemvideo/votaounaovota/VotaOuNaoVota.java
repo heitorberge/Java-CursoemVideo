@@ -35,6 +35,7 @@ public class VotaOuNaoVota {
             } else {
                 System.out.println("Voce tem " + I + " anos Seu voto e Obrigatorio.");
             }
+            System.out.println("Para Mais Informacoes va a um Cartorio Eleitoral");
             System.out.println("_________________________________________________");
         }            
     }

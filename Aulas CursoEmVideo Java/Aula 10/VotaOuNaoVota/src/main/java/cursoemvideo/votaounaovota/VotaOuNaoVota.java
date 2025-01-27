@@ -1,5 +1,6 @@
 package cursoemvideo.votaounaovota;
 import java.util.Scanner;
+// Por Heitor Berg
 public class VotaOuNaoVota {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);

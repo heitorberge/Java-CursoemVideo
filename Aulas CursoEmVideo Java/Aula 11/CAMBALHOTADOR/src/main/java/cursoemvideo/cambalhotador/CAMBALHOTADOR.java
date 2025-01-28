@@ -34,7 +34,7 @@ public class CAMBALHOTADOR {
                 pontos = pontos + 20;
             } else {
                 if (Na - 1 == cc) {
-                    System.out.println("Parabens! Voce Fez Todas as Cambalhotas que conseguiu sem ficar Tonto e Teve: " + pontos + " Pontos");
+                   System.out.println("Parabens! Voce Fez Todas as Cambalhotas que conseguiu sem ficar Tonto e Teve: " + pontos + " Pontos");
                     System.out.println("________________________________________");
                     ganhou = true;
                     break;
